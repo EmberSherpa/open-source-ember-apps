@@ -12,3 +12,4 @@ A list of open source Ember apps
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
+* [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
