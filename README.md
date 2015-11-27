@@ -13,3 +13,5 @@ A list of open source Ember apps
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
+* [Ilios Frontend](https://github.com/ilios/frontend)
+* [ShareDrop](https://github.com/cowbell/sharedrop)
