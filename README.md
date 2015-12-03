@@ -1,4 +1,4 @@
-# open-source-ember-apps
+# Open Source Ember Apps
 A list of open source Ember apps
 
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
