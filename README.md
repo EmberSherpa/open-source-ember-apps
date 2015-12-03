@@ -15,3 +15,6 @@ A list of open source Ember apps
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [ShareDrop](https://github.com/cowbell/sharedrop)
+* [Travis CI web client](https://github.com/travis-ci/travis-web)
+* [Ember Inspector](https://github.com/emberjs/ember-inspector)
+* [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
