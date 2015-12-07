@@ -20,3 +20,4 @@ A list of open source Ember apps
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
 * [Consul Web UI](https://github.com/hashicorp/consul/tree/master/ui)
+* [Davros](https://github.com/mnutt/davros)
