@@ -1,27 +1,27 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
- Ember `2.3.x`
+## Ember `2.3.x`
 
 * [ShareDrop](https://github.com/cowbell/sharedrop)
 
- Ember `2.2.x`
+## Ember `2.2.x`
 
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 * [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 
- Ember `2.1.x`
+## Ember `2.1.x`
 
 * [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
 
- Ember `2.0.x`
+## Ember `2.0.x`
 
 * [Ember Observer](https://github.com/emberobserver/client)
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
 
- Ember `1.13.x`
+## Ember `1.13.x`
 
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Wikitongues Poly](https://github.com/wikitongues/poly)
@@ -31,14 +31,14 @@ A list of open source Ember apps
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Davros](https://github.com/mnutt/davros)
- 
- Ember `1.12.x`
+
+## Ember `1.12.x`
 
 * [Discourse](https://github.com/discourse/discourse)
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 
- Ember `1.7.x`
+## Ember `1.7.x`
 
 * [Consul Web UI](https://github.com/hashicorp/consul/tree/master/ui)
 
