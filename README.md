@@ -18,3 +18,4 @@ A list of open source Ember apps
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
+* [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
