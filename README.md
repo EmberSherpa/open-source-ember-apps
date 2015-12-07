@@ -1,23 +1,44 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+ Ember `2.3.x`
+
+* [ShareDrop](https://github.com/cowbell/sharedrop)
+
+ Ember `2.2.x`
+
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
+* [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
+* [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
+
+ Ember `2.1.x`
+
+* [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
+
+ Ember `2.0.x`
+
+* [Ember Observer](https://github.com/emberobserver/client)
+* [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
+* [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
+
+ Ember `1.13.x`
+
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Wikitongues Poly](https://github.com/wikitongues/poly)
+* [crates.io](https://github.com/rust-lang/crates.io)
+* [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
+* [Wordset UI](https://github.com/wordset/wordset-ui)
+* [Ilios Frontend](https://github.com/ilios/frontend)
+* [Travis CI web client](https://github.com/travis-ci/travis-web)
+* [Davros](https://github.com/mnutt/davros)
+ 
+ Ember `1.12.x`
+
 * [Discourse](https://github.com/discourse/discourse)
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird)
-* [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
-* [crates.io](https://github.com/rust-lang/crates.io)
-* [Ember Observer](https://github.com/emberobserver/client)
-* [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
-* [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
-* [Wordset UI](https://github.com/wordset/wordset-ui)
-* [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
-* [Ilios Frontend](https://github.com/ilios/frontend)
-* [ShareDrop](https://github.com/cowbell/sharedrop)
-* [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
-* [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
-* [Ember Weekend](https://github.com/ember-weekend/ember-weekend)
+
+ Ember `1.7.x`
+
 * [Consul Web UI](https://github.com/hashicorp/consul/tree/master/ui)
-* [Davros](https://github.com/mnutt/davros)
+
