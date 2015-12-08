@@ -31,6 +31,7 @@ A list of open source Ember apps
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Davros](https://github.com/mnutt/davros)
+* [Participate](https://github.com/oliverbarnes/participate)
 
 ## Ember `1.12.x`
 
