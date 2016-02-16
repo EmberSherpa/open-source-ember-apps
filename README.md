@@ -3,6 +3,7 @@ A list of open source Ember apps
 
 ## Ember `2.3.x`
 
+* [Ember Observer](https://github.com/emberobserver/client)
 * [ShareDrop](https://github.com/cowbell/sharedrop)
 
 ## Ember `2.2.x`
@@ -17,7 +18,6 @@ A list of open source Ember apps
 
 ## Ember `2.0.x`
 
-* [Ember Observer](https://github.com/emberobserver/client)
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
 
