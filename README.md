@@ -1,9 +1,11 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember `2.4.x`
+* [Ember Observer](https://github.com/emberobserver/client)
+ 
 ## Ember `2.3.x`
 
-* [Ember Observer](https://github.com/emberobserver/client)
 * [ShareDrop](https://github.com/cowbell/sharedrop)
 
 ## Ember `2.2.x`
