@@ -3,6 +3,7 @@ A list of open source Ember apps
 
 ## Ember `2.4.x`
 * [Ember Observer](https://github.com/emberobserver/client)
+* [Travis CI web client](https://github.com/travis-ci/travis-web)
  
 ## Ember `2.3.x`
 
@@ -31,7 +32,6 @@ A list of open source Ember apps
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 * [Ilios Frontend](https://github.com/ilios/frontend)
-* [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Davros](https://github.com/mnutt/davros)
 * [Participate](https://github.com/oliverbarnes/participate)
 
