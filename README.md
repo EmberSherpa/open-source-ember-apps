@@ -1,9 +1,11 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember `2.5.x`
+* [Travis CI web client](https://github.com/travis-ci/travis-web)
+
 ## Ember `2.4.x`
 * [Ember Observer](https://github.com/emberobserver/client)
-* [Travis CI web client](https://github.com/travis-ci/travis-web)
  
 ## Ember `2.3.x`
 
