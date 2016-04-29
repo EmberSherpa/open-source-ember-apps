@@ -3,6 +3,7 @@ A list of open source Ember apps
 
 ## Ember `2.5.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
+* [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
 
 ## Ember `2.4.x`
 * [Ember Observer](https://github.com/emberobserver/client)
@@ -14,7 +15,6 @@ A list of open source Ember apps
 ## Ember `2.2.x`
 
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
-* [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 
 ## Ember `2.1.x`
