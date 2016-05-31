@@ -6,6 +6,7 @@ A list of open source Ember apps
 * [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client)
 
 ## Ember `2.4.x`
+* [Ember Grep web client](https://github.com/EmberGrep/eg-site)
 * [Ember Observer](https://github.com/emberobserver/client)
  
 ## Ember `2.3.x`
