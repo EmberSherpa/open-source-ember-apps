@@ -1,9 +1,11 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember `2.6.x`
+* [Ghost](https://github.com/TryGhost/Ghost-Admin)
+
 ## Ember `2.5.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
-* [Ghost](https://github.com/TryGhost/Ghost-Admin)
 
 ## Ember `2.4.x`
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
