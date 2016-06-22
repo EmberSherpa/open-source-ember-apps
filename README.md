@@ -6,11 +6,12 @@ A list of open source Ember apps
 
 ## Ember `2.5.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
+* [gishtech.com](https://github.com/kgish/gishtech.com/blob/master/bower.json)
 
 ## Ember `2.4.x`
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
 * [Ember Observer](https://github.com/emberobserver/client)
- 
+
 ## Ember `2.3.x`
 
 * [ShareDrop](https://github.com/cowbell/sharedrop)
@@ -50,4 +51,3 @@ A list of open source Ember apps
 ## Ember `1.7.x`
 
 * [Consul Web UI](https://github.com/hashicorp/consul/tree/master/ui)
-
