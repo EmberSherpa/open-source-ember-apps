@@ -1,6 +1,7 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+
 ## Ember `2.6.x`
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 
@@ -48,6 +49,31 @@ A list of open source Ember apps
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 
+## Ember `1.10.x`
+
+* [HN Reader](https://github.com/chancancode/hn-reader)
+
+## Ember `1.9.x`
+
+* [EmberFlare.com](https://github.com/ugisozols/emberflare.com)
+
+## Ember `1.8.x`
+
+* [balanced-dashboard](https://github.com/balanced/balanced-dashboard)
+
 ## Ember `1.7.x`
 
 * [Consul Web UI](https://github.com/hashicorp/consul/tree/master/ui)
+
+## Ember `1.2.x`
+
+* [Basho/Giddyup](https://github.com/basho/giddyup/tree/refactor/sdc-ember-upgrade)
+
+## Ember `1.00`
+
+* [Huboard](https://github.com/huboard/huboard-web)
+
+## Ember `1.RC6`
+
+* [EmberPress](https://github.com/eviltrout/emberpress)
+
