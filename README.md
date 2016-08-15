@@ -3,6 +3,7 @@ A list of open source Ember apps
 
 
 ## Ember `2.6.x`
+* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 
 ## Ember `2.5.x`
@@ -39,7 +40,6 @@ A list of open source Ember apps
 * [crates.io](https://github.com/rust-lang/crates.io)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
-* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Davros](https://github.com/mnutt/davros)
 * [Participate](https://github.com/oliverbarnes/participate)
 
