@@ -7,6 +7,7 @@ A list of open source Ember apps
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 
 ## Ember `2.5.x`
+* [Heroku Dashboard](https://dashboard.heroku.com/apps)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [Global Ember Meetup](https://github.com/EmberMeetup/website)
@@ -77,4 +78,3 @@ A list of open source Ember apps
 ## Ember `1.RC6`
 
 * [EmberPress](https://github.com/eviltrout/emberpress)
-
