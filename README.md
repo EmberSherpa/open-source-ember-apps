@@ -8,7 +8,8 @@ A list of open source Ember apps
 
 ## Ember `2.5.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
-* [gishtech.com](https://github.com/kgish/gishtech.com/blob/master/bower.json)
+* [gishtech.com](https://github.com/kgish/gishtech.com)
+* [Global Ember meetu](https://github.com/EmberMeetup/website)
 
 ## Ember `2.4.x`
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
