@@ -1,7 +1,9 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+
 ## Ember `2.6.x`
+* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 
 ## Ember `2.5.x`
@@ -38,7 +40,6 @@ A list of open source Ember apps
 * [crates.io](https://github.com/rust-lang/crates.io)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
-* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Davros](https://github.com/mnutt/davros)
 * [Participate](https://github.com/oliverbarnes/participate)
 
@@ -48,6 +49,31 @@ A list of open source Ember apps
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 
+## Ember `1.10.x`
+
+* [HN Reader](https://github.com/chancancode/hn-reader)
+
+## Ember `1.9.x`
+
+* [EmberFlare.com](https://github.com/ugisozols/emberflare.com)
+
+## Ember `1.8.x`
+
+* [balanced-dashboard](https://github.com/balanced/balanced-dashboard)
+
 ## Ember `1.7.x`
 
 * [Consul Web UI](https://github.com/hashicorp/consul/tree/master/ui)
+
+## Ember `1.2.x`
+
+* [Basho/Giddyup](https://github.com/basho/giddyup/tree/refactor/sdc-ember-upgrade)
+
+## Ember `1.00`
+
+* [Huboard](https://github.com/huboard/huboard-web)
+
+## Ember `1.RC6`
+
+* [EmberPress](https://github.com/eviltrout/emberpress)
+
