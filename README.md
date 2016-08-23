@@ -5,6 +5,7 @@ A list of open source Ember apps
 ## Ember `2.6.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
+* [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
 ## Ember `2.5.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
