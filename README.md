@@ -4,6 +4,7 @@ A list of open source Ember apps
 
 ## Ember `2.7.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
+* [crates.io](https://github.com/rust-lang/crates.io)
 
 ## Ember `2.6.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
@@ -43,7 +44,6 @@ A list of open source Ember apps
 * [Transitland Feed Registry](https://github.com/transitland/feed-registry)
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Wikitongues Poly](https://github.com/wikitongues/poly)
-* [crates.io](https://github.com/rust-lang/crates.io)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
 * [Davros](https://github.com/mnutt/davros)
