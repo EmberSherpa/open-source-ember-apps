@@ -5,6 +5,7 @@ A list of open source Ember apps
 ## Ember `2.7.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
 * [crates.io](https://github.com/rust-lang/crates.io)
+* [Library App](https://github.com/zoltan-nz/library-app)
 
 ## Ember `2.6.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
