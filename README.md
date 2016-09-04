@@ -6,6 +6,7 @@ A list of open source Ember apps
 * [SplittyPie](https://github.com/cowbell/splittypie)
 * [crates.io](https://github.com/rust-lang/crates.io)
 * [Library App](https://github.com/zoltan-nz/library-app)
+* [Travis CI web client](https://github.com/travis-ci/travis-web)
 
 ## Ember `2.6.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
@@ -13,7 +14,6 @@ A list of open source Ember apps
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 
 ## Ember `2.5.x`
-* [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [Global Ember Meetup](https://github.com/EmberMeetup/website)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/app)
