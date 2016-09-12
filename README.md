@@ -13,6 +13,7 @@ A list of open source Ember apps
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
+* [Rancher UI](https://github.com/rancher/ui)
 
 ## Ember `2.5.x`
 * [gishtech.com](https://github.com/kgish/gishtech.com)
