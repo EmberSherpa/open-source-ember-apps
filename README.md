@@ -8,6 +8,7 @@ A list of open source Ember apps
 * [Library App](https://github.com/zoltan-nz/library-app)
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
+* [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 
 ## Ember `2.6.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
@@ -30,7 +31,6 @@ A list of open source Ember apps
 
 ## Ember `2.2.x`
 
-* [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 
 ## Ember `2.1.x`
