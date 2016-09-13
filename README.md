@@ -1,6 +1,8 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember `2.8.x`
+* [Ilios Frontend](https://github.com/ilios/frontend)
 
 ## Ember `2.7.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
@@ -11,7 +13,6 @@ A list of open source Ember apps
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 
 ## Ember `2.6.x`
-* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 * [Rancher UI](https://github.com/rancher/ui)
