@@ -21,6 +21,7 @@ A list of open source Ember apps
 * [gishtech.com](https://github.com/kgish/gishtech.com)
 * [Global Ember Meetup](https://github.com/EmberMeetup/website)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/app)
+* [docbc Desktop](https://github.com/dotbc/dotbc-bundler)
 
 ## Ember `2.4.x`
 * [Ember Grep web client](https://github.com/EmberGrep/eg-site)
