@@ -3,8 +3,6 @@ A list of open source Ember apps
 
 ## Ember `2.10.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
-
-## Ember `2.8.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
 
 ## Ember `2.7.x`
