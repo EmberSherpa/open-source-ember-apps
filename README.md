@@ -4,6 +4,7 @@ A list of open source Ember apps
 ## Ember `2.10.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Ilios Frontend](https://github.com/ilios/frontend)
+* [Percy web client](https://github.com/percy/percy-web)
 
 ## Ember `2.7.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
