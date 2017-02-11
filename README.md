@@ -6,6 +6,9 @@ A list of open source Ember apps
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Percy web client](https://github.com/percy/percy-web)
 
+## Ember `2.8.x`
+* [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
+
 ## Ember `2.7.x`
 * [SplittyPie](https://github.com/cowbell/splittypie)
 * [crates.io](https://github.com/rust-lang/crates.io)
@@ -15,7 +18,6 @@ A list of open source Ember apps
 
 ## Ember `2.6.x`
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
-* [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
 * [Rancher UI](https://github.com/rancher/ui)
 
 ## Ember `2.5.x`
