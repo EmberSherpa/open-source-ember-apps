@@ -1,12 +1,14 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
-# Ember `2.11.x`
+# Ember `2.12.x`
+* [Ilios Frontend](https://github.com/ilios/frontend)
+
+## Ember `2.11.x`
 * [Appknox](https://github.com/appknox/irene)
 
 ## Ember `2.10.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
-* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Percy web client](https://github.com/percy/percy-web)
 
 ## Ember `2.8.x`
