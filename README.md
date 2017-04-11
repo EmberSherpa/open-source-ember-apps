@@ -5,6 +5,7 @@ A list of open source Ember apps
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
+* [Ember API Docs](https://github.com/ember-learn/ember-api-docs)
 
 ## Ember `2.11.x`
 * [Appknox](https://github.com/appknox/irene)
