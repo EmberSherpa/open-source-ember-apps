@@ -9,6 +9,7 @@ A list of open source Ember apps
 
 ## Ember `2.11.x`
 * [Appknox](https://github.com/appknox/irene)
+* [Canvas Web](https://github.com/usecanvas/web-v2)
 
 ## Ember `2.10.x`
 * [Percy web client](https://github.com/percy/percy-web)
