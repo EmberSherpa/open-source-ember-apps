@@ -4,6 +4,9 @@ A list of open source Ember apps
 ## Ember `3.0.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
 
+## Ember `2.16.x`
+* [Radio4000](https://github.com/internet4000/radio4000)
+
 ## Ember `2.15.x`
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
