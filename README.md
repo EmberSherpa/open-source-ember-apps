@@ -1,9 +1,11 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember `3.0.x`
+* [Ilios Frontend](https://github.com/ilios/frontend)
+
 ## Ember `2.15.x`
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
-* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Percy web client](https://github.com/percy/percy-web)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
