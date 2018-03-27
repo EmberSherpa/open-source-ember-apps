@@ -1,8 +1,22 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember `3.1.x`
+* [Ship Shape](https://github.com/shipshapecode/shipshape.io)
+
 ## Ember `3.0.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
+* [OSF Web](https://github.com/CenterForOpenScience/ember-osf-web)
+
+## Ember `2.18.x`
+* [Screwdriver UI](https://github.com/screwdriver-cd/ui)
+* [Transitland Dispatcher](https://github.com/transitland/dispatcher)
+* [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
+* [The Collective](https://github.com/TheCollectiveIO/collective-frontend)
+* [Small Robot](https://github.com/bmx269/smallrobot)
+
+## Ember `2.16.x`
+* [OSF Reviews](https://github.com/CenterForOpenScience/ember-osf-reviews)
 
 ## Ember `2.15.x`
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
@@ -35,6 +49,7 @@ A list of open source Ember apps
 * [Canvas Web](https://github.com/usecanvas/web-v2)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
+* [OSF Registries](https://github.com/CenterForOpenScience/ember-osf-registries)
 
 ## Ember `2.10.x`
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
