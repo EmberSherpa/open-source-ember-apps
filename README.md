@@ -13,6 +13,7 @@ A list of open source Ember apps
 * [Documize Community Edition](https://github.com/documize/community/tree/master/gui)
 
 ## Ember `2.14.x`
+* [HashiCorp Vault] (https://github.com/hashicorp/vault/tree/master/ui)
 * [Library App](https://github.com/zoltan-nz/library-app)
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird-client)
 * [Ember API Docs](https://github.com/ember-learn/ember-api-docs)
