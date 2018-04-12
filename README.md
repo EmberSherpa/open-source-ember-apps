@@ -3,6 +3,7 @@ A list of open source Ember apps
 
 ## Ember `3.1.x`
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
+* [Ship Shape](https://github.com/shipshapecode/shipshape.io)
 
 ## Ember `3.0.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
@@ -11,21 +12,32 @@ A list of open source Ember apps
 * [Library App](https://github.com/zoltan-nz/library-app)
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird-client)
 * [Ember Observer](https://github.com/emberobserver/client)
+* [OSF Web](https://github.com/CenterForOpenScience/ember-osf-web)
 
 ## Ember `2.18.x`
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
 * [Percy web client](https://github.com/percy/percy-web)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/gui)
+* [Screwdriver UI](https://github.com/screwdriver-cd/ui)
+* [Transitland Dispatcher](https://github.com/transitland/dispatcher)
+* [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
+* [The Collective](https://github.com/TheCollectiveIO/collective-frontend)
+* [Small Robot](https://github.com/bmx269/smallrobot)
 
 ## Ember `2.17.x`
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
 * [crates.io](https://github.com/rust-lang/crates.io)
 
 ## Ember `2.16.x`
+* [OSF Reviews](https://github.com/CenterForOpenScience/ember-osf-reviews)
+* [Radio4000](https://github.com/internet4000/radio4000)
 * [Ember Addons](https://github.com/gcollazo/ember-cli-addon-search)
 * [Rancher UI](https://github.com/rancher/ui)
 
 ## Ember `2.14.x`
+* [HashiCorp Vault](https://github.com/hashicorp/vault/tree/master/ui)
+* [Library App](https://github.com/zoltan-nz/library-app)
+* [Hummingbird](https://github.com/hummingbird-me/hummingbird-client)
 * [Ember API Docs](https://github.com/ember-learn/ember-api-docs)
 * [Davros](https://github.com/mnutt/davros)
 * [Flaredown](https://github.com/Flaredown/FlaredownEmber-2)
@@ -40,6 +52,7 @@ A list of open source Ember apps
 * [Canvas Web](https://github.com/usecanvas/web-v2)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
 * [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
+* [OSF Registries](https://github.com/CenterForOpenScience/ember-osf-registries)
 
 ## Ember `2.10.x`
 * [Discourse](https://github.com/discourse/discourse)
