@@ -23,6 +23,7 @@ A list of open source Ember apps
 * [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
 * [The Collective](https://github.com/TheCollectiveIO/collective-frontend)
 * [Small Robot](https://github.com/bmx269/smallrobot)
+* [SkyLines](https://github.com/skylines-project/skylines/tree/master/ember)
 
 ## Ember `2.17.x`
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
