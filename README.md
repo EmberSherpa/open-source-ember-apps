@@ -4,6 +4,7 @@ A list of open source Ember apps
 ## Ember `3.1.x`
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 * [Ship Shape](https://github.com/shipshapecode/shipshape.io)
+* [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
 
 ## Ember `3.0.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
@@ -20,7 +21,6 @@ A list of open source Ember apps
 * [Documize Community Edition](https://github.com/documize/community/tree/master/gui)
 * [Screwdriver UI](https://github.com/screwdriver-cd/ui)
 * [Transitland Dispatcher](https://github.com/transitland/dispatcher)
-* [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
 * [The Collective](https://github.com/TheCollectiveIO/collective-frontend)
 * [Small Robot](https://github.com/bmx269/smallrobot)
 * [SkyLines](https://github.com/skylines-project/skylines/tree/master/ember)
