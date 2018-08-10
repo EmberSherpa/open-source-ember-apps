@@ -78,6 +78,7 @@ A list of open source Ember apps
 * [Hoodie Admin Dashboard](https://github.com/hoodiehq/hoodie-admin-dashboard)
 * [Aptible Dashboard](https://github.com/aptible/dashboard.aptible.com)
 * [Wordset UI](https://github.com/wordset/wordset-ui)
+* [Apache Tez UI](https://github.com/apache/tez/tree/master/tez-ui)
 
 ## Ember `1.10.x`
 * [HN Reader](https://github.com/chancancode/hn-reader)
