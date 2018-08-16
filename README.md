@@ -3,6 +3,7 @@ A list of open source Ember apps
 
 ## Ember `3.1.x`
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
+* [Percy web client](https://github.com/percy/percy-web)
 * [Ship Shape](https://github.com/shipshapecode/shipshape.io)
 * [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
 
@@ -17,7 +18,6 @@ A list of open source Ember apps
 
 ## Ember `2.18.x`
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
-* [Percy web client](https://github.com/percy/percy-web)
 * [Documize Community Edition](https://github.com/documize/community/tree/master/gui)
 * [Screwdriver UI](https://github.com/screwdriver-cd/ui)
 * [Transitland Dispatcher](https://github.com/transitland/dispatcher)
