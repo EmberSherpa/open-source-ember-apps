@@ -71,6 +71,7 @@ A list of open source Ember apps
 
 ## Ember `2.2.x`
 * [Huboard](https://github.com/huboard/huboard-web)
+* [Apache Tez UI](https://github.com/apache/tez/tree/master/tez-ui)
 
 ## Ember `1.13.x`
 * [Uhuraapp](https://github.com/uhuraapp/uhura-frontend)
