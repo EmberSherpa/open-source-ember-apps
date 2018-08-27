@@ -1,6 +1,9 @@
 # Open Source Ember Apps
 A list of open source Ember apps
 
+## Ember Canary
+* [emberclear.io](https://gitlab.com/NullVoxPopuli/emberclear/tree/master/packages/frontend)
+
 ## Ember `3.1.x`
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 * [Percy web client](https://github.com/percy/percy-web)
