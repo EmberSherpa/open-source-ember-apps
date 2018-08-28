@@ -4,6 +4,9 @@ A list of open source Ember apps
 ## Ember Canary
 * [emberclear.io](https://gitlab.com/NullVoxPopuli/emberclear/tree/master/packages/frontend)
 
+## Ember `3.3.x`
+* [Ilios Frontend](https://github.com/ilios/frontend)
+
 ## Ember `3.1.x`
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 * [Percy web client](https://github.com/percy/percy-web)
@@ -11,7 +14,6 @@ A list of open source Ember apps
 * [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
 
 ## Ember `3.0.x`
-* [Ilios Frontend](https://github.com/ilios/frontend)
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
 * [Ghost](https://github.com/TryGhost/Ghost-Admin)
 * [Library App](https://github.com/zoltan-nz/library-app)
