@@ -12,6 +12,7 @@ A list of open source Ember apps
 * [Percy web client](https://github.com/percy/percy-web)
 * [Ship Shape](https://github.com/shipshapecode/shipshape.io)
 * [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
+* [Accent](https://github.com/mirego/accent)
 
 ## Ember `3.0.x`
 * [Travis CI web client](https://github.com/travis-ci/travis-web)
