@@ -10,6 +10,7 @@ A list of open source Ember apps
 * [OSF Web](https://github.com/CenterForOpenScience/ember-osf-web)
 
 ## Ember `3.1.x`
+* [Ember Guides App](https://github.com/ember-learn/guides-app)
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
 * [Percy web client](https://github.com/percy/percy-web)
 * [Ship Shape](https://github.com/shipshapecode/shipshape.io)
