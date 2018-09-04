@@ -7,6 +7,7 @@ A list of open source Ember apps
 ## Ember `3.3.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Radio4000](https://github.com/internet4000/radio4000)
+* [OSF Web](https://github.com/CenterForOpenScience/ember-osf-web)
 
 ## Ember `3.1.x`
 * [Ember Inspector](https://github.com/emberjs/ember-inspector)
@@ -21,7 +22,6 @@ A list of open source Ember apps
 * [Library App](https://github.com/zoltan-nz/library-app)
 * [Hummingbird](https://github.com/hummingbird-me/hummingbird-client)
 * [Ember Observer](https://github.com/emberobserver/client)
-* [OSF Web](https://github.com/CenterForOpenScience/ember-osf-web)
 
 ## Ember `2.18.x`
 * [Code Corps](https://github.com/code-corps/code-corps-ember)
