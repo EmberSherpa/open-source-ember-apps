@@ -31,6 +31,8 @@ A list of open source Ember apps
 * [The Collective](https://github.com/TheCollectiveIO/collective-frontend)
 * [Small Robot](https://github.com/bmx269/smallrobot)
 * [SkyLines](https://github.com/skylines-project/skylines/tree/master/ember)
+* [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
+* [OSF Registries](https://github.com/CenterForOpenScience/ember-osf-registries)
 
 ## Ember `2.17.x`
 * [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)
@@ -58,8 +60,6 @@ A list of open source Ember apps
 * [SplittyPie](https://github.com/cowbell/splittypie)
 * [Canvas Web](https://github.com/usecanvas/web-v2)
 * [Ember Twiddle](https://github.com/ember-cli/ember-twiddle)
-* [OSF Preprints](https://github.com/CenterForOpenScience/ember-preprints)
-* [OSF Registries](https://github.com/CenterForOpenScience/ember-osf-registries)
 
 ## Ember `2.10.x`
 * [Discourse](https://github.com/discourse/discourse)
