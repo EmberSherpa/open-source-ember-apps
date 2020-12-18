@@ -4,6 +4,9 @@ A list of open source Ember apps
 ## Ember Canary
 * [emberclear.io](https://gitlab.com/NullVoxPopuli/emberclear/tree/master/packages/frontend)
 
+## Ember `3.23.x`
+* [Lisweb Frontend](https://github.com/hotsoft-informatica/lisweb_frontend)
+
 ## Ember `3.15.x`
 * [Ilios Frontend](https://github.com/ilios/frontend)
 * [Accent](https://github.com/mirego/accent)
